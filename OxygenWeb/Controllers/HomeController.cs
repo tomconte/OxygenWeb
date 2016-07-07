@@ -18,7 +18,8 @@ namespace OxygenWeb.Controllers
             var web3 = new Nethereum.Web3.Web3();
 
             // Get contract reference
-            // The Solidity file can be found here: https://gist.github.com/anonymous/47f27037cac99e4a0c3b146fe84ac49a
+            // The Solidity file can be found here: 
+            // https://gist.githubusercontent.com/anonymous/47f27037cac99e4a0c3b146fe84ac49a/raw/330b689b834781dea49921acb5aee7ef4b7bb9fd/OxygenContract-1
             // You can use the online Solidity compiler to compile it, get the ABI and deploy it:
             // https://ethereum.github.io/browser-solidity/
 
